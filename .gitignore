@@ -4,3 +4,4 @@ __pycache__/
 .env
 .pylintrc
 submission/
+git-lab-submission.md
